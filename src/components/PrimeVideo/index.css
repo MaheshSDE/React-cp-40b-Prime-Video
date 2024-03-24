@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.prime-video-container {
+  width: 100%;
+
+  background-color: #000000;
+}
+
+.prime-video-image {
+  width: 100%;
+  height: 30vh;
+}
+
+.action-movie-container {
+  padding: 50px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 450;
+  color: #ffffff;
+}
+
+.comedy-movie-container {
+  padding: 50px;
+}

@@ -1,0 +1,12 @@
+/* @media screen and (max-width: 768px) {
+  .desktop-view-slider-container {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .mobile-view-slider-container {
+    display: none;
+  }
+}
+ */
